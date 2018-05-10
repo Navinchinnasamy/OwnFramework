@@ -6,3 +6,4 @@ Following are done in this commit,
 2) Created Controller, Model & Component.
 3) Dynamically files are included
 4) Namespace is used
+5) Database connection using PDO
