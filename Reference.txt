@@ -1,0 +1,6 @@
+Own framework:
+==============
+https://medium.com/shecodeafrica/building-your-own-custom-php-framework-part-1-1d24223bab18
+https://github.com/wilforlan/php-framework-tutorial
+https://github.com/wilforlan/CogentPHP
+https://medium.com/shecodeafrica/building-your-own-custom-php-framework-part-2-c4de74e948a5
